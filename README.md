@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="sakura_banner.png">
+  <img width="100%" src="sakura_banner.png" alt="Sakura header">
 </p>
 
 # Hello World, I am Annet 👋
@@ -100,6 +100,6 @@ Let's build something amazing together! ✨
 </div>
 
 <br><br><br>
-<div align="center">
-  <img src="footer.svg" width="100%" height="60" alt="Sakura Footer"/>
-</div>
+<p align="center">
+  <img width="100%" src="footer.svg" alt="Sakura footer">
+</p>
