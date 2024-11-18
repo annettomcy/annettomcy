@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 60">
+  <!-- Define the pattern -->
+  <defs>
+    <pattern id="flowerPattern" width="60" height="60" patternUnits="userSpaceOnUse">
+      <g transform="scale(1)">
+        <path d="M0,-5 C5,-15 15,-5 0,0 C-15,-5 -5,-15 0,-5" fill="#FFD7E2" transform="translate(20, 20) rotate(30) scale(0.8)"/>
+        <path d="M0,-5 C5,-15 15,-5 0,0 C-15,-5 -5,-15 0,-5" fill="#FFD7E2" transform="translate(40, 35) rotate(160) scale(0.6)"/>
+        <path d="M0,-5 C5,-15 15,-5 0,0 C-15,-5 -5,-15 0,-5" fill="#FFD7E2" transform="translate(25, 40) rotate(280) scale(0.7)"/>
+      </g>
+    </pattern>
+  </defs>
+  
+  <!-- Background rectangle filled with the pattern -->
+  <rect width="100%" height="60" fill="url(#flowerPattern)"/>
+</svg>
