@@ -77,7 +77,7 @@ Let's build something amazing together! ✨
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="background: white; border-radius: 3px;" height="30" alt="github"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" align="center" height="20" alt="confluence"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg"  height="30" alt="confluence"/>
 <img src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" height="30" alt="vercel"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma"/>
 <img src="https://seeklogo.com/images/M/miro-logo-A7556EE400-seeklogo.com.png" height="30" alt="miro"/>
