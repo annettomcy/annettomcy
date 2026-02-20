@@ -9,18 +9,6 @@ I'm a passionate developer who likes to craft digital experiences. Between commi
 
 Like a shonen protagonist, I'm always pushing beyond my limits! 🌟
 
-#### ✨ I Thrive On
-- Writing clean, efficient code that stands the test of time
-- Continuous learning and growth - because there's always something new to discover!
-- Leading and collaborating with teams to build remarkable solutions
-- Creating intuitive interfaces that bridge human needs and technical solutions
-
-#### 🎤 Communication & Leadership
-
-- **Public Speaking Champion:** Former Toastmaster with a knack for engaging presentations
-- **Culture Builder:** Transformed company culture by organizing and hosting events that bring people together
-- **Team Leader:** Experience in guiding teams toward shared goals while fostering individual growth
-
 🤝 Always excited to connect with fellow developers and lead initiatives that bring people together.
 
 Let's build something amazing together! ✨
